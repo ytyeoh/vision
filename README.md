@@ -1,4 +1,4 @@
-# buildex_doc
+# Documentation
 ## menu
 - home
 - all news
@@ -26,4 +26,9 @@ display all exhibiitor approve by admin
 
 ## location
 display map, transport & accormadation nearby exhibition. 
-
+----
+### feature to be include
+ 
+1. Exhibitor manual payment 
+2. Event inside website
+3. sponsor
