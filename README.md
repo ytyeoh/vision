@@ -1,79 +1,41 @@
-# Documentation
-## menu
-- Home
-- About
-  1.  foreward
-  2.  committee member
-  3.  history
-  
-- Exhibition
-  1. location
-  2. accormadation
-  3. transport
-  4. internal map
-  5. 
-  
-- Seminar
-  1. speakers
-  2. events
-  3. 
-- News
-  1. gallery
-  
+## Home
+### spotlight
+<img width="1203" alt="Screenshot 2024-01-10 at 10 27 13 AM" src="https://github.com/ytyeoh/buildex_doc/assets/15033121/5712da41-ae88-4be2-9a6a-0e336e2d6a6d">
+apply coming soon and related image based on categories.
 
-## footer
-- Download design kits link
-- address & info
-- social media link
-- button register as exhibitor
-- button register as visitor
+** will chaneg back to original image with exhibitor product image **  
 
+### footer
+<img width="1228" alt="Screenshot 2024-01-10 at 10 27 21 AM" src="https://github.com/ytyeoh/buildex_doc/assets/15033121/addc58a9-fb7a-41f0-9762-1f06551f89d8">
+need info for address and phone number, now use PCCC info. Whatapps number also require for potential exhibitor to contact.
 
-### home
-1. Banner
-2. Introduction with 3 images
-3. Mission welcome with 3 images
-4. Join us now with 3 images
-5. feature brand display
+** pending for contact info to upgrade **
 
-### About
-Display page about buuldex
-#### foreward
-page with some vvip, oc foreward
-#### committe member
-page with image and committe profile
-#### history 
-page to tell history of buildex
-#### speakers
-page list down all speakers
+## About
+### foreward
+https://demo.penangbuildex.com.my/about/foreward change to coming soon once got info only show out default design with name and image.
 
-## Exhibition
-display all exhibiitor approve by admin
-#### feature
-- click inside view individual product 5 images
-- display exhibitor company description + related info
+** will change back design nce got foreward content **
 
-### location
-display map location for exhibition
+### committee member
+https://demo.penangbuildex.com.my/about/committee lack committee member photo use pccc logo to replace for temporary. 
 
-### accormadation
-display neary accormadtion info
+** will replace with committe image with pccc logo **
 
-### transport
-what kind of transport can reach exhibition and map navigation also
+### history
+https://demo.penangbuildex.com.my/about/history lack of image for previous event. will disable image section.
 
-### Internal Map
-map info for booth and display of exibition
+** once got related image will enable image section and display related images **
 
 ## seminar
-time table & topic of seminar
-### speakers
-speakers background and introduction
-### events
-example dinner, lucky draw and so on and way to participant
+## speakers + events
+https://demo.penangbuildex.com.my/seminar/speaker + https://demo.penangbuildex.com.my/seminar/event
+both will be put coming soon.
+** will chaneg back to once got event and speakers details **  
 
 ## news
-display news and update 
-### gallery
-display images 
+## news + gallery
+[https://demo.penangbuildex.com.my/seminar/speaker](https://demo.penangbuildex.com.my/news/all_news) + [https://demo.penangbuildex.com.my/seminar/event](https://demo.penangbuildex.com.my/news/gallery)
+both will be put coming soon.
+** will chaneg back to once got news and gallery details **  
 
