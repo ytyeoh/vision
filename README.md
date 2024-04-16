@@ -1,42 +1,48 @@
-## Home
-### spotlight
-<img width="1203" alt="Screenshot 2024-01-10 at 10 27 13 AM" src="https://github.com/ytyeoh/buildex_doc/assets/15033121/5712da41-ae88-4be2-9a6a-0e336e2d6a6d">
-apply coming soon and related image based on categories.
+## Invoice
+### 更新
+- 12月31日后会员自动逾期，除了永久会员
+- 自动发送电邮于相关会员
+- 付费后自动生成inovice
+- 付费后重设会员逾期日期为12月31日
+- 设定新价钱，并重设所有会员新invoice和发送。
+- 根据会员组别设定价钱。
+- 系统不会自动生成和发送，必须设定新价钱后确认发送。
 
-*will chaneg back to original image with exhibitor product image*
+  ### 个人。公司和商团更新
+  - 每年更新一次
 
-### footer
-<img width="1228" alt="Screenshot 2024-01-10 at 10 27 21 AM" src="https://github.com/ytyeoh/buildex_doc/assets/15033121/addc58a9-fb7a-41f0-9762-1f06551f89d8">
-need info for address and phone number, now use PCCC info. Whatapps number also require for potential exhibitor to contact.
+  #### 个人
+  - 75岁以上免除200秘书费
+  - 21-45岁免费青商会员
+ 
+  ### 永久会员
+  - 免除会员费，但不包含秘书费
+ 
+  #### 个人
+  - 免除会员费
 
-*pending for contact info to upgrade*
+  ### 青商
+  - 每3年更新一次
+  - 21-45 岁
+ 
+  #### 超级青年
+  - 18-23岁
 
-## About
-### foreward
-https://demo.penangbuildex.com.my/about/foreward change to coming soon once got info only show out default design with name and image.
+## 会员
+### 功能
+- 手机登入
+- 逾期一年没更新后无法登入
 
-*will change back design nce got foreward content*
 
-### committee member
-https://demo.penangbuildex.com.my/about/committee lack committee member photo use pccc logo to replace for temporary. 
+### 招收新会员
+- 登入后可获得独特链接发送给加入新会员
+- 会员逾期半年后链接将无效
+- 手机号码将自动转换成0109004050格式储存。
 
-*will replace with committe image with pccc logo*
-
-### history
-https://demo.penangbuildex.com.my/about/history lack of image for previous event. will disable image section.
-
-*once got related image will enable image section and display related images*
-
-## seminar
-## speakers + events
-https://demo.penangbuildex.com.my/seminar/speaker + https://demo.penangbuildex.com.my/seminar/event both will be put coming soon.
-
-*will chaneg back to once got event and speakers details* 
-
-## news
-## news + gallery
-[https://demo.penangbuildex.com.my/seminar/speaker](https://demo.penangbuildex.com.my/news/all_news) + [https://demo.penangbuildex.com.my/seminar/event](https://demo.penangbuildex.com.my/news/gallery)
-both will be put coming soon.
-
-*will chaneg back to once got news and gallery details* 
-
+  #### 个人
+  - 可招收全部类型会员
+ 
+  #### 青商
+  - 只可招收青商会员
+  #### PDCMC
+  - 只可招收PDCMC会员
