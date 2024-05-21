@@ -54,26 +54,26 @@
 ### 分类
 所有会员分类成4种模式
 - Active （证实已缴费会员）
-- Inactive （一年以上没缴费永久会员）
-- Deleted （一年以上没缴费普通会员）
-- Pending（还没缴费或通过会员审查）
+- Inactive （没缴秘书费的永久会员，无需发invoice给他）
+- Deleted （一年以上没缴费普通会员，无需发invoice给他）
+- Pending （待会议审查的新会员）
+
 
 #### Active
 - 系统只会自动开invoice给active会员。
-- 开invoice后自动变成pending。
-- 更新invoice付费时自动从pending变成active
+
 
 #### Inactive
-- 没在12月31日缴交秘书费的永久会员，会从pending变成Inactive。
-- 缴交秘书费后，更新invoice付费时自动从Inactive变成active
+- 不需要开invoice
+- 永久会员一年没缴费就变成Inactive
 - 不能登人帐户
 
 #### Deleted
-- 没在12月31日缴清会费或其他费用的非永久会员会员，会从pending变成Deleted。
-- 缴交秘书费后，更新invoice付费时自动从Deleted变成active
+- 缴交会员费后，更新invoice付费时自动从Deleted变成active
+- 普通会员一年没缴费就变成Deleted
 - 不能登人帐户
 
+
 #### Pending
-- 新加入会员默认设置状态，通过会员申请后就转换active。
-- 1月1日系统会把所有active会员设定成pending。
+- ⁠新加入会员默认设置状态，通过会议申请并缴费后，由秘书处手动把他们转换active。
 - 刚加入3个月内的新会员还没付费不会被设定成Deleted，会保留pending直到下一年的12月31日才设定为Deleted。
