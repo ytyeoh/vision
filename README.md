@@ -1,34 +1,13 @@
-## 恒毅校友会-保护眼睛
+# Putrajaya 
 
-我们会以恒毅校友会的身份配合Ajo Optics于恒毅中学主办保护眼睛讲座会，提供免费验眼给b40家庭学生。
-Ajo Optics将于当天提供基本验眼服务，并分发固本于学生，让学生可以各自到Ajo Optics分行进行更进一步的检查。
-b40学生的固本将可以得到免费眼镜。
+## hotel 
+[5 star hotel](https://www.agoda.com/pulse-grande-hotel/hotel/kuala-lumpur-my.html?countryId=198&finalPriceView=1&isShowMobileAppPrice=false&cid=1917614&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=MYR&isFreeOccSearch=false&los=1&searchrequestid=4a7dc09a-eaf7-4462-b64e-fe15a83e535a&ds=VUz%2BOaCoZEtuH8yP&checkin=2025-03-29)
+## Activirties
+[Cruise](https://www.cruisetasikputrajaya.com/day_cruise.html)
+![image](https://github.com/user-attachments/assets/f2ac08af-0a97-494a-ae2b-b5b7e4be6809)
+offer RM40 
 
-
-
-### Ajo Optics分行
-- AJO Optics Prangin Mall
-- AJO Optics Golden Triangle 2
-
-### 需要资料
-1. 全校学生人数
-2. b40学生人数
+[Hipo](https://www.wildlife.gov.my/index.php/2016-04-25-02-58-00/2016-05-10-02-34-43/2016-05-10-02-41-01)
+buy fruitfor hiopol RM10
 
 
-### 建议流程
-- 7.45am - 简单介绍校友会以及Ajo Optics创办人-Jason Lim。
-- 7.50am - 保护眼睛讲座会（也可以座谈会方式进行）
-- 8.05am - 问答环节
-- 8.10am - 颁发感谢𡘾
-- 8.20am - 开始验眼
-- 12.30pm - 结束
-
-### 出席代表
-- 董事
-- 家协
-- 校友
-
-### 赞助
-Ajo Optics
-
- 
